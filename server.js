@@ -1,5 +1,5 @@
 var express = require('express');
-var app = express();
+//var app = express();
 
 /*app.listen(8080, ()=>{
     console.log("Server Running on port 8080")
@@ -79,7 +79,9 @@ const planets = [
         "imgUrl": "https://www.dropbox.com/s/5gahey8nf49oxn1/Neptune.png?dl=1"
     }
   ];
-
+app.get("/", (req,res)=>{
+    res.status(200).json(planets)
+})
 app.get("/planets", (req,res)=>{
     res.status(200).json(planets);
 })
