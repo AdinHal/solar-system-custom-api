@@ -22,7 +22,7 @@ const planets = [
         satelites: 0,
         surfaceArea: '74.800.000 km2',
         rotationPeriod: '176 d',
-        imageUrl: 'https://imgur.com/Uc6KnOo'
+        imageUrl: 'https://i.imgur.com/Uc6KnOo.png'
     },
     {
         name: 'Venus',
@@ -46,7 +46,7 @@ const planets = [
         satelites: 2,
         surfaceArea: '144.800.000 km2',
         rotationPeriod: '1.02749125 d',
-        imageUrl: 'https://imgur.com/U2Y2tLX'
+        imageUrl: 'https://i.imgur.com/U2Y2tLX.png'
     },
     {
         name: 'Jupiter',
@@ -54,7 +54,7 @@ const planets = [
         satelites: 80,
         surfaceArea: '61.420.000.000 km2',
         rotationPeriod: '9.9258 h',
-        imageUrl: 'https://imgur.com/R63ZVfE'
+        imageUrl: 'https://i.imgur.com/R63ZVfE.png'
     },
     {
         name: 'Saturn',
