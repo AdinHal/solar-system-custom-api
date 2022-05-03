@@ -5,11 +5,11 @@ Custom API for the Solar iOS App
 Server Running on localhost:8080
 
 ## Get All Planets with localhost:8080/ or localhost:8080/planets
-![](https://i.imgur.com/4ypEggh.png)
+![](https://i.imgur.com/xxrRZtj.png)
 
 
 ## Get a specific Planet with localhost:8080/planets/${PlanetName}
-![](https://i.imgur.com/hKnD7dn.png)
+![](https://i.imgur.com/yNIUqwp.png)
 
 ## The app also runs on Heroku, you can check it over this Link
 https://space-api-json.herokuapp.com/planets/
