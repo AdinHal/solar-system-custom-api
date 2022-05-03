@@ -11,5 +11,5 @@ Server Running on localhost:8080
 ## Get a specific Planet with localhost:8080/planets/${PlanetName}
 ![](https://i.imgur.com/yNIUqwp.png)
 
-## The app also runs on Heroku, you can check it over this Link
+## Available on Heroku, you can check it over this Link
 https://space-api-json.herokuapp.com/planets/
