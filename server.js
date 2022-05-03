@@ -87,7 +87,6 @@ app.get("/planets", (req,res)=>{
 app.get("/planets/:name", (req,res)=>{
     let name = req.params.name
     let response = planets.find((item)=> item.name = name)
-    var str = JSON.stringify(response, undefined, 4)
-    res.status(200).json(str)
+    res.status(200).json(response)
 })
 
