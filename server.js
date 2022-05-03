@@ -89,8 +89,9 @@ app.get("/planets", (req,res)=>{
 })
 
 app.get("/planets/:name", (req,res)=>{
-    let name = req.params.name
-    let response = planets.find((item)=> item.name = name)
-    res.status(200).json(response)
+    let planetname = req.params.name
+    let planetReturn = planets.find((planet)=>planet.name === planetname)
+
+    res.status(200).json(planetReturn)
 })
 
