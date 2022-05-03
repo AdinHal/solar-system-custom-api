@@ -45,7 +45,7 @@ const planets = [
         "satelites": 2,
         "surfaceArea": "144.800.000 km2",
         "rotationPeriod": "1.02749125 d",
-        "imgUrl": "https://www.dropbox.com/s/4uqyp9rfylevcv0/Mars.png?dl=1"
+        "imgUrl": ""
     },
     {
         "name": "Jupiter",
