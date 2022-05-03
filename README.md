@@ -1,7 +1,7 @@
 # Solar System API
 Custom API for the Solar iOS App
 
-## Run with npm start
+## Run with -> npm start
 Server Running on localhost:8080
 
 ## Get All Planets with localhost:8080/ or localhost:8080/planets
