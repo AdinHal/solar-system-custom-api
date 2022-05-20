@@ -16,7 +16,7 @@ const planets = [
         satelites: 0,
         surfaceArea: '6.078.747.774.547 km²',
         rotationPeriod: '25.38 d',
-        imageUrl: 'https://i.imgur.com/7FPRkww.png'
+        imageUrl: 'https://i.imgur.com/bPpBiiJ.png'
     },
     {
         name: 'Mercury',
