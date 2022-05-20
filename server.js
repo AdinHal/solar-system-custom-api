@@ -16,7 +16,7 @@ const planets = [
         satelites: 0,
         surfaceArea: '6.078.747.774.547 km²',
         rotationPeriod: '25.38 d',
-        imageUrl: 'https://i.imgur.com/bPpBiiJ.png'
+        imageUrl: 'https://i.imgur.com/9a5CcR3.png'
     },
     {
         name: 'Mercury',
@@ -26,7 +26,7 @@ const planets = [
         satelites: 0,
         surfaceArea: '74.800.000 km²',
         rotationPeriod: '176 d',
-        imageUrl: 'https://i.imgur.com/Uc6KnOo.png'
+        imageUrl: 'https://i.imgur.com/9MApsGB.png'
     },
     {
         name: 'Venus',
@@ -36,7 +36,7 @@ const planets = [
         satelites: 0,
         surfaceArea: '460.200.000 km²',
         rotationPeriod: '-116.75 d',
-        imageUrl: 'https://i.imgur.com/LaMYOiC.png'
+        imageUrl: 'https://i.imgur.com/FXITnxs.png'
     },
     {
         name: 'Earth',
@@ -56,7 +56,7 @@ const planets = [
         satelites: 2,
         surfaceArea: '144.800.000 km²',
         rotationPeriod: '1.02749125 d',
-        imageUrl: 'https://i.imgur.com/U2Y2tLX.png'
+        imageUrl: 'https://i.imgur.com/cxqDWuC.png'
     },
     {
         name: 'Jupiter',
@@ -66,7 +66,7 @@ const planets = [
         satelites: 80,
         surfaceArea: '61.420.000.000 km²',
         rotationPeriod: '9.9258 h',
-        imageUrl: 'https://i.imgur.com/R63ZVfE.png'
+        imageUrl: 'https://i.imgur.com/xZnDtwv.png'
     },
     {
         name: 'Saturn',
@@ -76,7 +76,7 @@ const planets = [
         satelites: 83,
         surfaceArea: '42.700.000.000 km²',
         rotationPeriod: '10h 32m 36s',
-        imageUrl: 'https://i.imgur.com/q1zuN7F.png'
+        imageUrl: 'https://i.imgur.com/BNJ0YzI.png'
     },
     {
         name: 'Uranus',
@@ -86,7 +86,7 @@ const planets = [
         satelites: 27,
         surfaceArea: '8.083.000.000 km²',
         rotationPeriod: '-0.71832 d',
-        imageUrl: 'https://i.imgur.com/P15HSJl.png'
+        imageUrl: 'https://i.imgur.com/nOAxQwD.png'
     },
     {
         name: 'Neptune',
@@ -96,7 +96,7 @@ const planets = [
         satelites: 14,
         surfaceArea: '7.618.000.000 km²',
         rotationPeriod: '0.67125 d',
-        imageUrl: 'https://i.imgur.com/vHNKhZf.png'
+        imageUrl: 'https://i.imgur.com/wn0wCqQ.png'
     }
   ];
 
